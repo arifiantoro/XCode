@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Kampung Warna Warni",
+        "category": "Kampung",
+        "city": "Kota Malang",
+        "state": "Jawa Timur",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Wisata Edukasi",
+        "coordinates": {
+            "longitude": 112.638070,
+            "latitude": -7.983090
+        },
+        "description": "Kampung Warna-Warni Jodipan merupakan kampung wisata pertama di Kota Malang yang berupa deretan rumah dengan cat berwarna-warni yang menghiasi setiap dinding rumahnya dan berada di tepi Sungai Brantas. Warna-warni pada dinding inilah yang menarik bagi setiap wisatawan yang berkunjung ke kampung ini.  Kampung Warna-Warni Malang memiliki dua wilayah, yaitu Kampung Jodipan dan Kampung Tridi, keduanya dihubungkan dengan jembatan kaca “Ngalam”.Kampung Warna-Warni Jodipan diresmikan pada tanggal 4 September 2016 oleh Wali Kota Malang H. Mochamad Anton yang didampingi oleh Forkopimda Kota Malang, Ketua TP PKK Kota Malang dan juga Sekretaris Daerah Kota Malang. Acara ini juga dihadiri oleh Vice President PT Indah Paint, Steve A Sugiharto dan para mahasiswa pencetus ide ini yang tergabung dalam GuysPro.Salah satu wisata menarik di Kampung Warna Warni adalah adanya jembatan kaca “Ngalam” (Ngalam dibaca Malang). jembatan kaca ini menjadi penghubung antara Kampung Jodipan dan Kampung Tridi. Jembatan kaca Ngalam ini resmi dioperasikan pada tanggal 9 Oktober 2017.  Jembatan baru ini mampu menjadi magnet baru untuk menarik wisatawan. Di jembatan ini Anda dapat mengambil foto dengan pemandangan yang kece abis. Konstruksi jembatan ini merupakan hasil rancangan dari dua mahasiswa Teknik Sipil UMM, yaitu Mahatma Aji dan Khoirul dibawah binaan Ir. Lukito Prasetyo. Untuk pembangunan jembatan ini difasilitasi oleh PT Indah yang merupakan perusahaan cat asal Malang. Jembatan ini mulai dibangun pada tanggal 8 Juni 2017 dan selesai pada tanggal 25 September 2017.",
+        "imageName": "warna"
+    },
+    {
+        "name": "Kampung Tridi",
+        "category": "Kampung",
+        "city": "Kota Malang",
+        "state": "Jawa Timur",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wisata Edukasi",
+        "coordinates": {
+            "longitude": 112.6379373,
+            "latitude": -7.9817148
+        },
+        "description": "Kampung Tridi terletak di Kelurahan Kesatrian, Kecamatan Blimbing,  Kota Malang. Lebih tepatnya pada Jalan Temenggungan Ledok, RT 14, RW 12. Lokasinya terlihat sangat mencolok di sebelah timur Jembatan Embong Brantas (Jl. Gatot Subroto). Dari atas jembatan ini, dapat terlihat dengan jelas perkampungan warna warni di kiri maupun kanan sungai. Kampung Tridi Kesatrian berada di sebelah kiri (utara) sungai, sedangkan di sebelah selatan sungai merupakan Kampung Warna Warni Jodipan.  Kampung Tridi terletak tidak jauh dari pusat kota Malang, dimana Stasiun Kereta Kota Malang hanya terpaut sekitar 500 meter dari kampung ini, sedangkan Alun Alun Tugu Balai Kota sekitar 1 kilometer. Dulunya bersama Kampung Juanda (Jodipan) di sebelahnya merupakan perkampungan kumuh di Kota Malang. Namun setelah ada ide untuk pengecatan kampung Juanda di Jodipan dengan nuansa warna-warni, mendadak perkampungan kumuh ini menjadi objek wisata yang terkenal dimana-mana.   Hal tersebut menjadi inspirasi bagi warga perkampungan di seberang sungai, Kelurahan Kesatrian, untuk menerapkan gagasan mereka sebelumnya yang ingin menjadikan kampungnya sebagai kampung 3D. Eddy Supriyanto atau yang lebih akrab disapa Edi Gimbal (kutipan wawancara bersama Kompas) merupakan penggagas utama dari konsep kampung 3D ini.",
+        "imageName": "tridi"
+    },
+    {
+        "name": "Hawaii Waterpark",
+        "category": "Waterpark",
+        "city": "Kota Malang",
+        "state": "Jawa Timur",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Jawa Timur Park",
+        "coordinates": {
+            "longitude": 112.6578899,
+            "latitude": -7.9236818
+        },
+        "description": "Hawai Waterpark merupakah salah satu waterpark terbaik di Indonesia. Dibangun di lahan seluas 28.000 meter persegi dan terletak di Perumahan Graha Kencana Jl. Balearjosari Malang. Hawai Waterpark memiliki berbagai macam wahana air dan wahana kering dengan sistem keamaan tinggi dan lifeguard bersertifikat Internasional. Beberapa wahana yang dikenal luas di masyarakat antara lain Kolam Ombak Tsunami dengan ombak tertinggi di Indonesia, Jet Coaster Water Slide dengan tower tertinggi di Indonesia, serta kolam arus dengan 8 tema yang berbeda. ",
+        "imageName": "hawai"
+    },
+    {
+        "name": "Jawa Timur Park",
+        "category": "Park",
+        "city": "Kota Batu",
+        "state": "Jawa Timur",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Jawa Timur Park",
+        "coordinates": {
+            "longitude": 112.5246991,
+            "latitude": -7.884246
+        },
+        "description": "Jatim Park adalah sebuah tempat rekreasi dan taman belajar yang terdapat di Kota Batu, Jawa Timur. Objek wisata ini berada sekitar 20 km barat Kota Malang, dan kini menjadi salah satu icon wisata Jawa Timur. Objek wisata ini memiliki 36 wahana, di antaranya kolam renang raksasa (dengan latar belakang patung Ken Dedes, Ken Arok, dan Mpu Gandring), spinning coaster, dan drop zone. Wahana pendidikan yang menjadi pusat perhatian di antaranya adalah Volcano dan Galeri Nusantara yang juga terdapat tanaman agro, diorama binatang langka, dan miniatur candi-candi. Jatim Park 1 beralamat di Jalan Kartika no. 2, yang berdekatan dengan Klub Bunga.",
+        "imageName": "jtp1"
+    },
+    {
+        "name": "Jawa Timur Park Secret Zoo",
+        "category": "Park",
+        "city": "Kota Batu",
+        "state": "Jawa Timur",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Jawa Timur Park",
+        "coordinates": {
+            "longitude": 112.528153,
+            "latitude": -7.8889925
+        },
+        "description": "Sedikit berbeda dengan Jatim park 1 yang lebih ditujukan sebagai taman bermain dan hiburan, Jatim Park 2 lebih menunjukan tempat belajar selain tempat bermain. Jatim Park 2 mengusung konsep belajar ilmu alam, biologi dan pembelajaran satwa yang disajikan dengan latar belakang sesuai habitatnya. Jawa Timur Park 2 dibangun di wilayah malang Jatim Park 2 terdiri dari Museum Satwa, Batu Secret Zoo dan Pohon Inn Hotel. Harga tiket untuk Jatim Park 2 sendiri berkisar antara Rp 91.000 pada hari Senin-Kamis dan Rp 120.000 pada hari Jumat-Minggu. Jatim Park 2 beralamat di jl. Oro Oro Ombo no.9, yang berdekatan dengan Eco Green Park, Batu Night Spectacular. ",
+        "imageName": "jtp2"
+    },
+    {
+        "name": "Jawa Timur Park Dino World",
+        "category": "Kota Batu",
+        "city": "Kota Batu",
+        "state": "Jawa Timur",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Jawa Timur Park",
+        "coordinates": {
+            "longitude": 112.52833,
+            "latitude": -7.87
+        },
+        "description": "Dari wahana sebelumnya yaitu Jatim Park 1 yang menawarkan permainan, pengetahuan hingga hiburan dan Jatim Park 2 dengan kemegahan dari Museum Satwa serta Secret Zoonya, Jatim Park kini menghadirkan wahana menarik buatan berupa replika Dinosaurus. Jatim Park 3 berada di desa Beji, Kecamatan Junrejo, Kota Batu. Jatim Park 3 mengusung konsep taman bermain sekaligus edukasi mengenai hewan-hewan purbakala termasuk Dinosaurus. Taman Wisata Dinosaurus Jatim Park 3 juga dilengkapi dengan food court di sekitar area yang menyajikan aneka masakan tradisional, eropa, jajanan ringan dan minuman segar.",
+        "imageName": "jtp3"
+    },
+    {
+        "name": "Florawisata Santera de Laponte",
+        "category": "Park",
+        "city": "Kota Batu",
+        "state": "Jawa Timur",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Jawa Timur Park",
+        "coordinates": {
+            "longitude": 112.4857675,
+            "latitude": -7.8541398
+        },
+        "description": "Flora Wisata San Terra merupakan destinasi wisata kekinian dan instagramable yang terletak di Kota Wisata Pujon Malang, Jawa Timur. Dengan ketinggian 1200mdpl, sehingga dapat dirasakan hawa sejuknya ditambah dengan view khas pegunungan. Flora Wisata San Terra didirikan pada tahun 2019. Flora Wisata San Terra dibangun dengan konsep taman bunga, spot foto instagramable, wahana permainan dan kuliner ala garden. Wisata ini sangat cocok untuk segala usia dari anak, remaja, dewasa, maupun lansia. Terdapat ratusan jenis tanaman bunga hias, juga melayani penjualan tanaman bunga hias dalam pot. Wisata yang berdiri diatas tanah dengan luas 5 hektar ini mulai dibuka pukul 08.00-17.00 WIB. Harga Tiket Masuk (HTM) sangat terjangkau yaitu Weekday 25.000 dan Weekend/Libur Nasional 30.000 per orang. Dengan biaya tiket yang terjangkau sudah dapat menikmati semua spot foto tanpa berbayar lagi, kecuali untuk wahana permainan akan dikenai tiket bermain. Flora Wisata San Terra juga terdapat Gedung serbaguna yang dapat digunakan untuk acara gathering, rapat, wedding, dan prewedding. ",
+        "imageName": "santera"
+    },
+    {
+        "name": "Bromo",
+        "category": "Mountains",
+        "city": "Kab Malang",
+        "state": "Jawa Timur",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Bromo",
+        "coordinates": {
+            "longitude": 112.9521356,
+            "latitude": -7.9037251
+        },
+        "description": "Gunung Bromo atau dalam bahasa Tengger dieja Brama, juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru. Nama Bromo berasal dari nama dewa utama dalam agama Hindu, Brahma. Bentuk tubuh Gunung Bromo bertautan antara lembah dan ngarai dengan kaldera atau lautan pasir seluas sekitar 10 kilometer persegi. Ia mempunyai sebuah kawah dengan garis tengah ± 800 meter (utara-selatan) dan ± 600 meter (timur-barat). Sedangkan daerah bahayanya berupa lingkaran dengan jari-jari 4 km dari pusat kawah Bromo.",
+        "imageName": "bromo"
+    },
+    {
+        "name": "Padang Rumput Savana",
+        "category": "Mountain",
+        "city": "Kab Malang",
+        "state": "Jawa Timur",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Tengger",
+        "coordinates": {
+            "longitude": 112.916477,
+            "latitude": -7.9787221
+        },
+        "description": "Sesuai dengan namanya, padang savana ini terletak di sebelah selatan Gunung Bromo. Secara geografis, tempat ini dikelilingi oleh 4 wilayah perbatasan, yakni Kabupaten Malang, Kabupaten Pasuruan, Kabupaten Probolinggo, dan Kabupaten Lumajang. Akses ke sini sudah sangat mudah.",
+        "imageName": "tengger"
+    },
+    {
+        "name": "Semeru",
+        "category": "Mount",
+        "city": "Kab Malang",
+        "state": "Jawa Timur",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Semeru",
+        "coordinates": {
+            "longitude": 112.92248,
+            "latitude": -8.1078426
+        },
+        "description": "Gunung Semeru atau Gunung Meru adalah sebuah gunung berapi kerucut di Jawa Timur, Indonesia. Gunung Semeru merupakan gunung tertinggi di Pulau Jawa, dengan puncaknya Mahameru, 3.676 meter dari permukaan laut (mdpl). Gunung ini terbentuk akibat subduksi Lempeng Indo-Australia kebawah Lempeng Eurasia. Gunung Semeru juga merupakan gunung berapi tertinggi ketiga di Indonesia setelah Gunung Kerinci di Sumatra dan Gunung Rinjani di Nusa Tenggara Barat.[2] Kawah di puncak Gunung Semeru dikenal dengan nama Jonggring Saloko.",
+        "imageName": "semeru"
+    },
+    {
+        "name": "Bromo Transit Park",
+        "category": "Park",
+        "city": "Kab Malang",
+        "state": "Jawa Timur",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Bromo Transit Park",
+        "coordinates": {
+            "longitude": 112.7788485,
+            "latitude": -8.0206356
+        },
+        "description": "Tumpang adalah sebuah desa yang terletak di Kabupaten Malang. Tempat ini terkenal dengan potensi wisata sejarah, budaya, dan juga wisata alam (terutama air terjun). Baru-baru ini, tepatnya tahun 2020 lalu, muncul sebuah tempat wisata baru, unik, dan pastinya menarik, lengkap dengan fasilitas yang memadai. Taman Transit Bromo namanya. Terdapat dua buah kolam renang yang bisa Anda temukan, yaitu kolam renang untuk dewasa dan anak-anak. Masing-masing ditempatkan di lokasi yang berbeda. Kolam renang untuk anak-anak terletak di bawah, sedang kolam renang dewasa ada di atas. Anda juga dapat menjumpai beberapa spot yang sayang jika Anda lewatkan begitu saja. Spot-spot ini memang dirancang secara khusus untuk kebutuhan fotografi dan selfie. Lanskap perbukitan ini juga sangat cocok untuk kegiatan outdoor yang super seru seperti outbound dan juga camping. Satu lagi alasan mengapa Anda wajib liburan di sini adalah hadirnya sebuah kafe kekinian yang cocok sekali untuk anak muda.",
+        "imageName": "transit"
+    },
+    {
+        "name": "Coban Pelangi",
+        "category": "Waterfall",
+        "city": "Kab Malang",
+        "state": "Jawa Timur",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Coban Pelangi",
+        "coordinates": {
+            "longitude": 112.8657238,
+            "latitude": -8.0108503
+        },
+        "description": "Air terjun Coban Pelangi merupakan objek wisata alam yang berlokasi di Desa Gubuk Klakah, Kabupaten Malang. Air Terjun ini dikelola oleh Perum Perhutani KPH Malang. Dinamakan Air Terjun Coban Pelangi karena di air terjun ini sering terjadi fenomena munculnya pelangi. Air terjun ini memiliki curahan air mencapai ketinggian 110 meter. Selain itu, kawasan air terjun ini dikelilingi oleh Taman Nasional Bromo Tengger Semeru. Dengan suhu udara mencapai 19°C – 23°C disarankan membawa pakaian penghangat atau jaket jika berkunjung ke Air terjun ini.",
+        "imageName": "pelangi"
+    }
+]
